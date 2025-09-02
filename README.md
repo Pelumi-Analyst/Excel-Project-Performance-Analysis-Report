@@ -22,5 +22,12 @@ The data source is an Excel workbook containing **five(5)** related tables:
 ---
 # Process & Approach
 1. Data Preparation: Imported the five(5) tables using **Power Query** and loaded the data into **Power Pivot**. No transformation was done to the dataset as they were all clean.
+
 2. Data Modeling: The data was modeled in Power Pivot by creating relationships between the tables.
 ![[(https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/2f6f0a1c6d1136568ec8855b23d9203a376be005/Excel%20Project.png)](https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/2f6f0a1c6d1136568ec8855b23d9203a376be005/Excel%20Project.png)](https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/be3231f74ccfbdbba972d7c96a94d7152d66bac8/Power%20Pivot%20Model.png)
+
+3. Analysis
+- Created Pivot Tables to measure sales, quantity, discount, profit, and some breakdown analysis
+- Applied slicers for filtering (e.g., year)
+- Compared the sales & quantity on a month on month basis
+![[[(https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/2f6f0a1c6d1136568ec8855b23d9203a376be005/Excel%20Project.png)](https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/2f6f0a1c6d1136568ec8855b23d9203a376be005/Excel%20Project.png)](https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/be3231f74ccfbdbba972d7c96a94d7152d66bac8/Power%20Pivot%20Model.png)](https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/4c2bd6b82d9f6b52a8a4b327cefcbfb107e25c2e/Pivot%20Table%20Analysis.png)
