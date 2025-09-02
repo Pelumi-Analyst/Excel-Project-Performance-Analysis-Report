@@ -10,3 +10,15 @@ Organizations often need to monitor both customer performance and sales team eff
 2. Which region is contributing the major sales?
 3. What customer segment is generating most profit?
 4. Trend analysis on Sales & Quantity on Month on Month basis.
+---
+
+# Dataset
+The data source is an Excel workbook containing **five(5)** related tables:
+- Customer – customer details and IDs
+- Location – geographical attributes
+- Orders – sales orders (transactions)
+- Product – product details, categories, and name
+- Sales Team – sales team details
+---
+# Process & Approach
+## 1. Data Preparation: Imported the five(5) tables using **Power Query** and loaded the data into **Power Pivot**. No transformation was done to the dataset as they were all clean.
