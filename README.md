@@ -31,3 +31,19 @@ The data source is an Excel workbook containing **five(5)** related tables:
 - Applied slicers for filtering (e.g., year)
 - Compared the sales & quantity on a month on month basis
 ![[[(https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/2f6f0a1c6d1136568ec8855b23d9203a376be005/Excel%20Project.png)](https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/2f6f0a1c6d1136568ec8855b23d9203a376be005/Excel%20Project.png)](https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/be3231f74ccfbdbba972d7c96a94d7152d66bac8/Power%20Pivot%20Model.png)](https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/4c2bd6b82d9f6b52a8a4b327cefcbfb107e25c2e/Pivot%20Table%20Analysis.png)
+
+# Insights & Outcomes
+- The top five customers account for over 3% of total sales, with Sean Miller emerging as the highest contributor.
+- The “Organic” sales manager category generated the largest share of sales, highlighting that the organization earns significantly more revenue with minimal human intervention.
+- The West Region is responsible for over 37% of total revenue, making it the strongest performing region.
+- The Consumer segment stands out as the most profitable customer segment.
+---
+
+# Tools & Features Used
+- Excel Power Query – Data Loading.
+- Excel Power Pivot – Building relationships between tables.
+- Pivot Tables & Charts – Performance analysis and visualization
+- Slicers – Interactive filtering
+---
+# Key Learning
+This project was built as a practice exercise to strengthen skills in Data Visualization within Microsoft Excel. It simulates real-world performance tracking for customers and sales teams.
