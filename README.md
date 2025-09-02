@@ -21,4 +21,6 @@ The data source is an Excel workbook containing **five(5)** related tables:
 - Sales Team – sales team details
 ---
 # Process & Approach
-## 1. Data Preparation: Imported the five(5) tables using **Power Query** and loaded the data into **Power Pivot**. No transformation was done to the dataset as they were all clean.
+1. Data Preparation: Imported the five(5) tables using **Power Query** and loaded the data into **Power Pivot**. No transformation was done to the dataset as they were all clean.
+2. Data Modeling: The data was modeled in Power Pivot by creating relationships between the tables.
+![[(https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/2f6f0a1c6d1136568ec8855b23d9203a376be005/Excel%20Project.png)](https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/2f6f0a1c6d1136568ec8855b23d9203a376be005/Excel%20Project.png)](https://github.com/Pelumi-Analyst/Excel-Project-Performance-Analysis-Report/blob/be3231f74ccfbdbba972d7c96a94d7152d66bac8/Power%20Pivot%20Model.png)
